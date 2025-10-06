@@ -11,6 +11,7 @@ This repository contains three data analysis projects demonstrating skills in da
 [View Google Sheets](https://docs.google.com/spreadsheets/d/14_zicn10OcfeTqtxxzurTSQ00G9tsGQOkvcJ3Pt-UYo/edit?usp=sharing)
 
 [View Notion](https://www.notion.so/Stray-Kids-Streaming-Analysis-25f3457c1fb480ef8f35eb4c1905af7e?source=copy_link)
+
 **Description:** Collected and analyzed streaming and sales data for the last five albums to explore audience growth and listener behavior.  
 **Tools:** Google Sheets, basic charts  
 **Content:**  
@@ -22,6 +23,7 @@ This repository contains three data analysis projects demonstrating skills in da
 
 ## 2. Library Data Analysis (Excel)
 [View Notion](https://www.notion.so/Personal-Library-Data-Analysis-Excel-27f3457c1fb480519e6ee34f645494be?source=copy_link)
+
 **Description:** Structured and analyzed personal book library data, including reading habits, authors, publishers, genres, languages, and expenses.  
 **Tools:** Excel (Pivot Tables, charts)  
 **Content:**  
@@ -34,6 +36,7 @@ This repository contains three data analysis projects demonstrating skills in da
 
 ## 3. Interactive Library Dashboard (Power BI)
 [View Notion](https://www.notion.so/Interactive-Library-Data-Dashboard-Power-BI-2843457c1fb48084bb55e9e9f35f52c0?source=copy_link)
+
 **Description:** Built an interactive Power BI dashboard based on the library data to explore trends, finances, and reading habits.  
 **Tools:** Power BI  
 **Content:**  
