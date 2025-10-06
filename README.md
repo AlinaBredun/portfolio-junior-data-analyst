@@ -14,6 +14,7 @@ This repository contains three data analysis projects demonstrating skills in da
 - Daily and total streams comparison    
 - Main track share and overall album consumption trends  
 [View Google Sheets](https://docs.google.com/spreadsheets/d/14_zicn10OcfeTqtxxzurTSQ00G9tsGQOkvcJ3Pt-UYo/edit?usp=sharing)
+
 [View Notion](https://www.notion.so/Stray-Kids-Streaming-Analysis-25f3457c1fb480ef8f35eb4c1905af7e?source=copy_link)
 
 ---
@@ -26,6 +27,7 @@ This repository contains three data analysis projects demonstrating skills in da
 - Top authors and publishers  
 - Reading trends by year and month  
 - Expenses and average book cost
+
 [View Notion](https://www.notion.so/Personal-Library-Data-Analysis-Excel-27f3457c1fb480519e6ee34f645494be?source=copy_link)
 ---
 
