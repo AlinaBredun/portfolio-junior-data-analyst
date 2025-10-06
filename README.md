@@ -27,7 +27,6 @@ This repository contains three data analysis projects demonstrating skills in da
 - Top authors and publishers  
 - Reading trends by year and month  
 - Expenses and average book cost
-
 [View Notion](https://www.notion.so/Personal-Library-Data-Analysis-Excel-27f3457c1fb480519e6ee34f645494be?source=copy_link)
 ---
 
@@ -37,7 +36,6 @@ This repository contains three data analysis projects demonstrating skills in da
 **Content:**  
 - Six pages covering Overview, Reading Activity, Top Authors, Finances, Book Journey, and Publisher Analysis  
 - KPIs, charts, and matrices for detailed insights
-
 [View Notion](https://www.notion.so/Interactive-Library-Data-Dashboard-Power-BI-2843457c1fb48084bb55e9e9f35f52c0?source=copy_link)
 
 ---
